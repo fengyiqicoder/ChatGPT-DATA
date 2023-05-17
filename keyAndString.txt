@@ -1,0 +1,1000 @@
+add_device_scan_tips_2: Keep the device as close as possible to the gateway to be added
+add_devices: Add Devices
+add_device_exit: Stop adding device, confirm exit?
+add_device_guide_title: Reset the device first.
+add_device_guide_content: If the indicator is blinking rapidly, please skip the reset step:\n1.Power on the device;\n2.Press and hold the Reset button for at least 5 seconds until indicator light flashes..(Subject to the usermanual);\n3.Make sure that the indicator is blinking rapidly;\nNote:please complete the network configuration within 2 minutes after resetting the device.
+add_device_guide_net: Follow onscreen instructions to perform network pairing.
+add_device_guide_confirm: Make sure the indicator is blinking rapidly.
+add_device_common_title: Add %s
+add_room: Add Room
+adding_succeeded: Add device successfully
+adding_failed: Add device failed.
+adding_retry_tips: Please try again.
+advance_option: Advanced Options
+advance_option_obtain: Obtain
+advance_option_tips: Please enter the cloud server ID or the MAC address of the device that has been registered in the sever to obtain the server IP and the port before logging in the BelaHome app.
+advance_option_tv_server: Server
+advance_option_tv_port: Port
+advanced_settings: Advanced Settings
+account_experience_content: Your account has expired. Please log in again.
+account_exit_content: Your account is signed in elsewhere on %1$s.
+agree: Agree
+aiddescription: aiddescription
+alarm: Alarm
+alarm_lower: alarm
+alarm_co_device_fault: Device Fault
+alarm_co_status: CO Alarm
+alarm_code_door_unlock: Door Unlock
+alarm_code_drmagnet: Drmagnet
+alarm_code_gas: Gas
+alarm_code_infrared: Infrared
+alarm_code_smoke: Smoke
+alarm_code_sos: SOS
+alarm_code_tamper: Tamper
+alarm_code_urgency: Urgency
+alarm_flood: Flood Alarm
+alarm_label_ir_dected: Motion Detected
+alarm_label_ir_not_dected: No Motion Detected
+alarm_location_balcony: Balcony
+alarm_location_bathroom: Bathroom
+alarm_location_bedroom: Bedroom
+alarm_location_door: Door
+alarm_location_gate: Gate
+alarm_location_guest_room: Guest Room
+alarm_location_hall: Hall
+alarm_location_kitchen: Kitchen
+alarm_location_study: Home Office
+alarm_location_window: Window
+alarm_zone_area1: Area1
+alarm_zone_area2: Area2
+alarm_zone_area3: Area3
+alarm_zone_area4: Area4
+alarm_zone_area5: Area5
+alarm_zone_area6: Area6
+alarm_zone_area7: Area7
+alarm_zone_area8: Area8
+allow_run_background: Allow to run in the background
+am: AM
+app_is_started: BelaHome is started
+app_name: BelaHome
+app_version: Application version
+arming_disarm: Disarm
+arming_home_mode: Home mode
+arming_home: Home
+arming_away: Away
+arming_sleep: Sleep
+arming_custom: Customized
+authorization: Authorization
+authorize_title: Number of allowed times.
+auto_scan_failed: No Devices Found.
+automation: Automation
+account: Account
+account_setting: Account Setting
+add_family_member: Add Family Member
+audio_call_failed: Voice call not connected.
+audio_call_time: Audio call time %s
+authority: Authority
+auto_update: Auto Update
+auto_update_tips: The device will be automatically updated during inactive hours.
+auto: Auto
+account_is_locked: Account is locked, unlock in %d minutes.
+account_login_have_one_chance: Account or Password is wrong,\nyou have one more chances,\naccount will be locked.
+account_login_have_two_chance: Account or Password is wrong,\nyou have two more chances,\naccount will be locked.
+authority_administrator: Administrator
+authority_management: Management
+add_to_instagram: Add to be shown on screen?
+air_quality: Air Quality
+add_favorite_scene: Add Favorite scene
+add_favorite_device: Add Favorite device
+arming_mode_list: Arming mode List
+arming_mode: Arming mode
+api_key: API Key
+arming_lower: arming
+associated_device: Associated Device %s
+authentication: Authentication
+authentication_tips: Before delete your account, please note that this action is permanent and cannot be undone. Enter your password to confirm your decision.
+authentication_password_hint: Please enter your password
+all_account: All account
+all_lights: All Lights
+all_shades: All Shades
+all_switchs: All Switchs
+back: Back
+balcony: Balcony
+ble_unlock: Bluetooth Unlock
+bluetooth_not_supported: Bluetooth not support
+bluetooth_access_succeed: Bluetooth access succeed.
+bluetooth_access_failed: Bluetooth access failed.
+busy_here: Busy Here
+battery_of_the_device: Battery of the device
+binding_email: Binding email
+battery_status: Battery status
+brightness: Brightness
+bypass_lower: bypass
+bypass_recovery: bypass recovery
+belahome_with_app_backup: Both App and Phone.
+belong_to: Belong to
+bypass_unit_minute: Minute
+bypass_unit_hour: Hour
+bypass_unit_day: Day
+bypass_unit_week: Week
+bright: Bright
+cache_clear: Cache Clear
+cache_clear_content: Including pic,video cache( total %1$s )
+cache_clear_fail: Cache clear fail.
+cache_clear_success: Cache cleared successfully.
+cache_clear_tips: Whether to clear the cache?
+cancel: Cancel
+call_authorize: Authorize
+call: Call
+call_calling: Calling
+call_conference: Conference
+call_conference_hold: Conference Hold
+call_connecting: Calling
+call_incoming: Incoming
+call_talking: Talking
+call_type_group_call: Group Call
+call_type_phone: Phone
+call_type_phone_with_smartplus_as_backup: BelaHome with phone as backup
+call_type_sequence_call: Sequence Call
+call_settings: Call Settings
+call_states_framerate: %d fps
+call_states_bitrate: %d kbps
+call_states_rtt: %d ms
+call_states_lostrate: %d
+capture: Capture
+capture_completed: Capture Completed.
+capture_info: Device Capture Info
+camera: Camera
+camera_error: This device does not support Camera2 API.
+code: Code
+change_to_speaker_tips: Voice will be played via speaker.
+channel: Channel
+check_update: Check for Updates
+confirm: Confirm
+confirm_view_content: Confirm to view the alert?
+confirm_view_message: (Current call will be ended)
+contact_preference: Contact Preference
+contact_preference_tips: You would like to receive calls on BelaHome or Phone. If you\'d like to keep receiving phone calls though, remember that you must answer the call then dial the # to permit access.
+contact_preference_personal_tips: You would like to start a group calls or sequential calls, when the visitor push the call button on the door panel.
+country_pick_title: Country/Region
+country_pick_suggested: Suggested
+country_pick_search_hint: Search for Country/Region.
+configuration_set_tips: You have completed this configuration.
+choose_a_room: Choose Room
+choose_relay_title: Please select the door you want to open.
+copy: Copy
+copy_right: Copyright © 2022 Akuvox \n All Rights Reserved 
+country_pick_suggested_code: +%1$s
+create_folder_hint: Enter folder name here.
+clear: Clear
+close: Close
+closing: Closing
+closet: Closet
+change_password: Change Password
+current_password: Current Password
+current_password_tips: Please enter your old password
+confirm_new_password: Confirm New Password
+confirm_new_password_tips: Please confirm your new password
+change_password_in_cloudless_tips: Cloudless mode is enabled.If forgot password, please reset it on the home center.
+check_device_updates: Check device updates
+connect_server_error: Server connection error. Please try again.
+consumption_daily: Daily Consumption
+consumption_monthly: Monthly Consumption
+consumption_total: Total consumption
+color_temperature: Color Temperature
+connecting_home: Connecting home…
+curtain: Curtain
+current: Current:
+change_device_type_tips: Are you sure you want to change the device type? All configurations associated to the device in all scenes will be removed.
+confirm_the_transfer: Confirm transfer
+changing_log: What\'s New
+contacts: Contacts
+control_all_devices: Control All Devices
+cooling: Cooling
+common_brand: Common Brand
+cool: Cool
+date_error_tips: The start date should not be empty.
+deal_alarm: Deal
+deal_alarm_title: Alarm has been dealt
+deal_alarm_content: Alarm released
+decline: Decline
+delay: Delay
+delete: Delete
+delete_room_with_device_tips: Please relocate the devices in\nthis room to another room
+deny: Deny
+describe_your_problem: Please describe the problem in detail.
+device: Device
+devices: Devices
+device_add_hue_click_confirm: I have pressed the button
+device_add_hue_error: Register failed. Please try again.
+device_add_ecobee_error: Invalid API Key.
+device_add_ecobee_pin: PIN: %s
+device_add_ring_password_error: Wrong username or password
+device_add_ring_code_error: Invalid Code.
+device_add_progress_tips: Make sure the device is connected to power and in network mode
+device_add_progress_title: Adding Device…
+device_add_title_ecobee: Add Ecobee
+device_add_title_hue: Add Philip Hue
+device_add_title_lutron: Add Lutron Caseta
+device_add_title_ring: Add Ring
+device_add_title_somfy: Add Somfy
+device_add_title_fibaro: Add Fibaro Hub
+device_add_is_tv_close_now: Is TV close now?
+device_add_is_tv_volume_is_changed_up: Is TV volume is changed up?
+device_add_is_the_air_conditioner_coolded_at_24: Is the air conditioner coolded at 24℃?
+device_add_turn_on_tv: Turn on Your TV Set
+device_add_start_matching: Start Matching
+device_add_sending_signal_to: Sending Signal to %1$s… 
+device_add_brand_search_tips: Search the brand
+device_add_infrared_tips: Before you add a device, you need to know:\n\n1.Please ensure that the equipment and appliances are within 1,000 square feet of each other and in the same space.\n\n2.Make sure your appliances support infrared remote control.
+device_add_guide_power_on: Power on the device as prompted first,and hold the RESET button for 5s
+device_add_guide_switch_module: After the wiring of switch module is done, press the reset key for about 10  seconds or turn on/off the traditional switch for 5  times until the indicator light inside the module is flashing quickly for pairing.
+device_add_guide_blinking: Make sure that the indicator is blinking rapidly
+device_edit_error_device_remove_tips: The device has been removed.\nNote: When adding a device, do not reset the device for a long time.
+device_offline: This device is offline.
+device_monitor: %s monitoring…
+device_alarm: %s alarm…
+device_name: Device Name
+device_name_empty_tips: Device name cannot be empty!
+device_status_error_single: Abnormal sensor status.Do you want to ignore this sensor and continue to change arming mode?
+device_status_error_multiple: Abnormal sensor status.Do you want to ignore these sensors and continue to change arming mode?
+device_bypass_normal: When the device status is normal
+device_bypass_after_30_min: After 30 min
+device_bypass_after_1_hour: After 1 h
+device_bypass_after_12_hour: After 12 h
+device_bypass_after_1_day: After 1 day
+device_bypass_after_7_day: After 7 day
+device_bypass_never: Never
+device_bypass_customize: Customize
+device_setting: Device Setting
+deselect_all: Deselect All
+dialog_continue: Continue
+dialog_exit: Exit
+dialog_ok: OK
+dialog_view: View
+dialog_waring: Warning!
+dialog_yes: Yes
+dining_room: Dining Room
+disagree: Disagree
+dnd: Do Not Disturb
+dnd_tips: When enabled, calls and notifications will be received only in the time in the schedule below.
+do_not_support_ble: Your device does not support BLE.
+done: Done
+door_release_pin: Door Release PIN
+doorphone_call_number: Doorphone Call Number
+dark_mode: Dark Mode
+day: Day
+day_mode: Day Mode
+degree_centigrade: Celsius (°C)
+delete_account: Delete Account
+delete_account_dialog_tips: Choose %s as administrator?\nYour account will be deleted.
+delete_account_dialog_sure_tips: This action can\'t be undone,\nplease confirm to continue.
+delete_account_no_sub_dialog_tips: If you delete the account, all data\non the account will be wiped!
+delete_account_no_sub_dialog_sure_tips: Are you sure you want to delete\nit? You can\'t undo this action!
+device_latest_version: Latest version:
+device_log: Device Log
+device_log_type_trigger: Trigger
+device_log_type_motion: Motion Detected
+device_log_type_open: Open
+device_log_type_close: Closed
+device_log_type_online: Device online
+device_log_type_offline: Device offline
+device_current_version: Current version:
+download: Download
+data_srouce: Data Source
+device_catalogue_lights: Lights
+device_catalogue_climate: Climate
+device_catalogue_entertainment: Entertainment
+device_catalogue_access: Access
+device_catalogue_cameras: Cameras
+device_catalogue_switch: Switch
+device_catalogue_sensor: Sensor
+device_catalogue_hub: Hub
+device_catalogue_cover: Cover
+device_catalogue_infrared_equipment: Infrared equipment
+device_photos_are_full: Device photo storage full.
+device_list: Device List
+device_not_connected: Device not connected
+door_phone: Door Phone
+disarm_lower: disarm
+device_motion_sensor: Motion Sensor
+device_flood_sensor: Flood Sensor
+device_door_window_sensor: Door/Window Sensor
+device_gas_sensor: Gas Sensor
+device_smoke_sensor: Smoke Sensor
+device_co_sensor: CO Sensor
+device_emergency_button: Emergency Button
+device_temperature_humidity_sensor: Temperature & Humidity Sensor
+device_smart_plug: Smart Plug
+device_switch_module: Switch Module
+device_type: Device Type
+device_connected: Connected
+device_disconnected: Disconnected
+delete_account_what: Delete account:
+delete_account_warning: Before deleting your account, please note that your data will be deleted.
+delete_the_account: Delete the account
+delete_temporary_account: Delete Temporary Account
+delete_temporary_account_tips: Delete the temporary account?
+delete_successful: Delete Successful
+delete_room: Delete Room
+device_location: Device Location
+device_ownership: Device Ownership
+device_1_way_relay_switch_module: 1-way Relay Switch Module
+device_2_way_relay_switch_module: 2-way Relay Switch Module
+device_3_way_relay_switch_module: 3-way Switch
+device_4_way_relay_switch_module: 4-way Switch
+direction: Direction
+dark: Dark
+edit: Edit
+ecosystem: Ecosystem
+ecosystem_device_phillip_hue: Phillip Hue
+ecosystem_device_phillip_hue_center: Phillip Hue Center
+ecosystem_device_tp_link_kasa: TP-Link kasa
+ecosystem_device_lutron_caseta: Lutron Caseta
+ecosystem_device_lutron_caseta_center: Lutron Caseta Center
+ecosystem_device_ecobee4: Ecobee 4
+ecosystem_device_yale: Yale
+ecosystem_device_ring: Ring Video Doorbell 4
+ecosystem_device_sonos: SONOS
+ecosystem_device_sonos_roam_sl: SONOS Roam SL
+ecosystem_device_sonos_beam_gen2: SONOS Beam Gen2
+ecosystem_device_shelly: Shelly
+ecosystem_device_shelly_1l: Shelly 1L
+ecosystem_device_shelly_1pm: Shelly 1PM
+ecosystem_device_shelly_em: Shelly EM
+ecosystem_device_shelly_dimmer_2: Shelly Dimmer 2
+ecosystem_device_yeelight: Yeelight
+ecosystem_device_yeelight_yldp12yl: Yeelight Blue White
+ecosystem_device_yeelight_smart_light2: Yeelight Blue Color
+ecosystem_device_somfy: Somfy
+ecosystem_device_somfy_curtain: Somfy-Curtain
+ecosystem_device_somfy_mylink: Somfy Shade
+ecosystem_device_ikea: IKEA
+ecosystem_device_ikea_curtain: IKEA-Curtain
+ecosystem_device_curtain_ikea: IKEA Shade
+ecosystem_device_tv: TV
+ecosystem_device_air_conditioner: Air Conditioner
+ecosystem_device_fibaro: Fibaro
+ecosystem_device_fibaro_center: Fibaro Center
+ecosystem_device_fibaro_hub: Fibaro Hub
+empty: None
+enable_float_window: Enable BelaHome to receive calls.
+enable_your_camera: Allow access to your camera so people\ncan see you in video calls.
+enable_your_microphone: Allow access to your microphone so\npeople can hear your voice.
+end_date: End Date
+end_time: End Time
+everyday: Everyday
+exit_after_press_again: Press back again to exit.
+export: Export
+export_log: Export Log
+error: Error
+enter: Enter
+email: Email
+enter_your_email: Enter your email
+email_address: Email Address
+email_cannot_be_empty: Email can not be empty
+email_format_error: Email format error
+email_address_not_found: Email address not found
+empty_source: Empty Source
+error_msg_socket_disconnect: The connection has been disconnected and is being reconnected
+error_msg_unknown_commond: The current device version does not support this operation.
+error_msg_request_timeout: Request timeout
+error_msg_unknow_error: Unknown error
+error_msg_name_too_long: The name is too long
+error_msg_room_name_too_long: Please enter a room name no longer than 63 characters
+error_msg_max_number_of_area: You have reached the maximum number of rooms (20) allowed in this family.
+error_msg_create_area_error: Failed to add room, please try again later.
+error_msg_update_area_error: Failed to edit room, please try again later.
+error_msg_area_not_exist: Room not found.
+error_msg_delete_area_error: Failed to delete room, please try again later.
+error_msg_invalid_parameter: Invalid parameter
+error_msg_family_center_photo_full: You have reached the maximum number of photos(100) allowed in this family.
+error_msg_device_photo_full: You have reached the maximum number of photos(9) allowed in this device.
+error_msg_image_already_exists: The photo already exists.
+error_msg_device_offline: The device is not connected, please check the device connection status.
+error_msg_device_unconnected_cloud: Unable to connect to Home Center, please check device connection status.
+error_msg_not_found_admin_user: User not found.
+error_msg_device_not_exist: Device not found.
+error_msg_update_device_error: Failed to update, please try again later.
+error_msg_delete_device_error: Failed to delete device, please try again later.
+error_msg_sort_device_error: Failed to adjust device position, please try again later.
+error_msg_replace_device_error: Failed to replace device, please try again later.
+error_msg_flowid_not_exist: Scene not found.
+error_msg_max_number_of_zigbee: Maximum number of zigbee.
+error_msg_failed_to_change_relay_type: Fail to switch relay type, please check the device version and network status.
+error_msg_account_not_exist: Account is incorrect, please try again.
+error_msg_user_not_exist: User not found.
+error_msg_offline_operation_not_allowed: Your home is in Off-Cloud mode, please turn off Off-Cloud mode before operating.
+error_msg_family_not_exist: Family not found.
+error_msg_operation_must_admin: No operation permission, please configure on the master account.
+error_msg_network_error: Network error, please check the network and try again later
+error_msg_create_user_error: Failed to add user, please try again later.
+error_msg_max_number_of_user: The maximum number of user is 30 allowed in this family.
+error_msg_max_number_of_intercom: Maximum number of intercom
+error_msg_user_already_exist: User already exists.
+error_msg_cloud_response_error: Cloud response error
+error_msg_email_already_exist: Email already exist.
+error_msg_account_or_password_wrong: Account or Password is incorrect,please try again.
+error_msg_access_denied: Access denied
+error_msg_invalid_refresh_token: Invalid refresh token
+error_msg_update_family_error: Failed to update, please try again later.
+error_msg_offline_not_allow_change_password: Your home is in Off-Cloud mode, please turn off Off-Cloud mode before operating.
+error_msg_transfer_user_error: Failed to transfer administrator permissions, please try again.
+error_msg_intercom_user_unactivated: Your intercom cloud account is not activated or has expired,please contact your service provider.
+error_msg_cloudless_cannot_forget_password: Your home is in Off-Cloud mode, please turn off Off-Cloud mode before operating.
+error_msg_old_password_error: Incorrect current password!
+error_msg_ip_banned_for_account_incorrect: Account is locked.
+error_msg_account_locked_send_email: Account is locked to send email.
+error_msg_account_locked_five_minutes: Account is locked, unlock in 5 minutes.
+error_msg_account_existed_multi_area: Account is locked.
+error_msg_temporary_account_not_intercom_permission: Edit failed, please add email address to this account first.
+error_msg_family_not_existed: Family not existed.
+error_msg_account_already_exists_in_family: The current account already exists in the family
+error_msg_passowrd_incorrect: Wrong password.
+error_msg_account_exists_cloudless_family: Your have a cloudless home.
+error_msg_need_transform_permission_but_not_params: Account requires transform permission but not have it.
+error_msg_transform_params_error: Transform params error.
+error_msg_account_not_existed: Account does not exist.
+error_msg_transfer_account_not_existed: Transfer account does not exist.
+error_msg_picture_too_big: Picture is too large.
+error_msg_device_is_banned: Device is banned.
+error_msg_account_has_joined_max_families: The number of families that this account has joined exceeds the limit.
+error_msg_operation_timeout: Operation timeout.
+face_add_2d_face_data: Add 2D Face Data
+face_before_start: Before starting, make sure the camera is clean, your face is unobstructed, and the environment is well-lit.\nYou can also setup by choosing a photo in the album.\nYou can use Face Recognition to unlock the door unit.
+face_error_photo_pixel_less_than_250: The resolution of this image must be at least 250x250.
+face_error_photo_with_mask: Please select another photo without mask.
+face_error_photo_view_of_your_face: Please use a photo of your face straight on.
+face_error_photo_no_face: No face were detected in this photo.
+face_error_photo_too_small: The face in the photo is too small.
+face_error_photo_too_large: The face in the photo is too large.
+face_error_photo_more_than_one_face: More than one face were detected in this photo.
+face_error_detect_no_face_or_large_face: Make sure your face stays fully in the frame.
+face_error_detect_face_too_small: Please get closer to the device.
+face_error_detect_with_mask: Please take off your mask.
+face_error_detect_more_face: Make sure you are the only person in the frame.
+face_error_not_clear: The face was not clear enough. Please make sure your face is not in backlight.
+face_recognition: Face Recognition
+face_choose_from_album: Choose From Album
+face_delete_facial_data: Delete Face Data
+face_delete_msg: If you delete the face data, you will not be able to unlock the door by facial recognition.
+face_get_started: Get Started
+face_discard: Discard
+face_upload_msg: Use this photo as your face ID?
+face_recognition_msg_tip: 1.Make sure your face stays fully in frame.\n\n2.No masks and hats.
+face_recognition_msg_processing: Processing, hold still…
+face_setup_complete: Setup Completed.
+face_setup_failed_title: Setup Failed.
+face_setup_failed_msg: Make sure that the camera is clean, your face is not covered, and you are in a well-lit environment (avoid direct sunlight).\n\nYou can also setup by choosing a photo in the album.
+face_start_again: Start Again
+family_management: Family Management
+family_members: Family Members
+favorite_device: Favorite device
+favorite_scene: Favorite scene
+favorite_device_empty: No device can be added to the home page.\nPlease add a device.
+favorite_scene_empty: No scenes can be added to the home page.\nPlease create a non-automatic scenes or\ncreate a security scenes from the cloud.
+feedback: Help & Feedback
+finish: Finish
+force_logout_title: Login Alert.
+force_logout_content: Your account has been logged in on another device!
+forget_passwd: Forgot Password
+fahrenheit_degree: Fahrenheit (°F)
+first_name: First Name
+family_name: Family name
+family_address: Family Address
+family_devices: Family Devices
+family_group: Family Group
+family_member_info: Family Member Info
+forgot_password: Forgot Password?
+first_name_cannot_empty: First Name cannot be empty.
+file_format_error: File format error.
+fan_mode: Fan Mode
+family_qr_code: Family QR Code
+family_members_message: Family Members Message
+family_qr_code_invite_tips: Scan the family QR code to join this home.
+family_members_message_tips_1: When other members of the family return home, you can choose who to be notified.
+family_members_message_tips_2: Only accounts with intercom permission support this function.
+gateway: Gateway:
+global_scheme: module
+go_and_set: Go And Set
+go_to_authorize: Go to PIN authorization
+got_it: Got it
+general: General
+hang_up: Hang Up
+help: Help & Feedback
+hold: Hold
+home: Home
+hue_add_tips: Press the button on the bridge to continue.
+humidity: Humidity
+h5_tips: Tips
+home_offcloud_tips: The family data is being protected.
+home_offline_tips: Unable to connect to the home center.
+home_not_bound_tips: You are not yet bound to any home.\nPlease scan the code to join another home.
+Heating: Heating
+history: History
+ignore: Ignore
+ignore_battery_optimization: Ignore Battery Optimization
+ignore_version: Ignore
+initializing_device: Initial Preference
+intercom: Intercom
+invalid_mac_address: Invalid MAC Address
+invalid_url: Invalid url
+intercom_capability: Intercom Capability
+intercom_capability_max_tips: You can enable the Intercom feature for up to %d sub-accounts.
+intercom_capability_disable_tips: %d sub-accounts have been allowed for the Intercom feature. You have to disable this feature of one of them before you can enable it for a new account.
+intercom_permission_management: Intercom Permission Management
+image: Image
+ip_address: IP Address
+invalide_add_somfy_input_tips: Invalid System ID or IP address.
+invalide_add_fibaro_input_tips: Invalid input.Please check your input data.
+illuminance: Illuminance
+including: Including:
+i_am_aware_of_the_risk: I\'m aware of the risks.Next step
+join_the_family: Join the family
+join_what_family: Family name: %s
+keep_alive: BelaHome keep running
+keep_alive_tips: Please keep it on to ensure that incoming calls can be received in real time
+kids_room: Kids Room
+kitchen: Kitchen
+kwh: Kwh
+lack_permissions: In order to make video calls with visitors. Please click \"Go And Set\" to set access of following permissions.
+lack_monitor_permission: In order to monitor the on-site environment. Please click \"Go And Set\" to set access of following permissions.
+lack_notification_permissions: Please allow BelaHome to send you notifications, in case of missing calls from your visitors.Click \"View\" see how to set notifications permissions.
+landline: Landline
+landline_dialog_title: Landline Caller Number Changed
+landline_dialog_title_new: Set \"BelaHome\" As Contacts
+landline_dialog_context: The landline caller number has been changed, please click \"Set As Contacts\" to add the new number to your contacts, so that the door phone call will not be marked as a harassing call.
+landline_dialog_context_new: Please click \"Set As Contacts\" to add the BelaHome number to your contacts, so that the door phone call will not be marked as a harassing call.
+live_view_confirm_view_message: (Current live view will be ended)
+living_room: Living Room
+loading: Loading
+load_video_failed: Failed to load video.
+log_level: Log Level
+login: Log In
+login_restful_server_failed: Failed to connect the server!
+login_scan_album: Album
+login_scan_flashlight: Flashlight
+login_text_2: Advanced VoIP/Cloud PBX Solution
+log_out: Log Out
+last_name: Last Name
+last_name_cannot_empty: Last Name cannot be empty.
+lock_lock: Lock
+lock_unlock: UnLock
+lx: lx
+logout_with_invalid_info: Your login is invalid. Please try again.
+logout_with_change_password: The password has been changed, please log in again.
+logout_with_role_changed: Account successfully registered, please log in again.
+logout_with_account_deleted: Account Deleted.
+master_bedroom: Primary Bedroom
+me: Me
+menu: Menu
+message: Messages
+message_input_hint: Message…
+microphone: Microphone
+change_location: Change Location
+motion: Motion
+motion_alert: Motion Alert
+motion_alert_tips: Alert of suspicious moving object.
+motion_content: A motion alert from %1$s 
+monitor: Monitor
+monitor_load_video_failed: Failed to load video.
+monitor_play_failed: Failed to play video.
+monitoring: Monitoring
+month: Month
+month_january_abbreviation: Jan
+month_february_abbreviation: Feb
+month_march_abbreviation: Mar
+month_april_abbreviation: Apr
+month_may_abbreviation: May
+month_june_abbreviation: Jun
+month_july_abbreviation: Jul
+month_august_abbreviation: Aug
+month_september_abbreviation: Sept
+month_october_abbreviation: Oct
+month_november_abbreviation: Nov
+month_december_abbreviation: Dec
+month_january: January
+month_february: February
+month_march: March
+month_april: April
+month_may: May
+month_june: June
+month_july: July
+month_august: August
+month_september: September
+month_october: October
+month_november: November
+month_december: December
+move_to_new_room: Move to new room
+movement_detected: Motion Detected
+movement_off: No Movement
+mute: Mute
+manually_choose: Manually choose
+my_profile: My Profile
+my_family: My Family
+manager: Manager
+measurement_settings: Temperature Unit
+modifying_the_device_name: Modifying The Device Name
+message_empty_tips: Tap here to start the conversation
+mobile_or_tel: Phone Number
+mobile_cannot_be_empty: Phone number cannot be empty.
+mode: Mode
+more: More
+modifying_the_switch_name: Modifying The %s
+net_err_whoopes: Whoops!
+net_err_msg: Unable to load the page!\nPlease check your connection and try again.
+net_err_btn_try: Try Again
+net_unavailable_tips: Net unavailable, try again later.
+next: Next
+next_day: Next Day
+nfc_access_failed: NFC access failed.
+nfc_access_succeed: NFC access succeed.
+nfc_unlock: NFC Unlock
+no_content: No data
+no_network_connection: No Network Connection
+notification_allowed_tips: Notifications have been allowed
+notification_channel_message_name: BelaHome Message
+notification_channel_call_name: BelaHome Call
+notification_channel_chat_name: BelaHome Chat
+notification_channel_alarm_name: BelaHome Alarm
+notification_delete_tips: Are you sure you wanted delete selected records?
+notification_enable_step: Please go to Settings - Apps - BelaHome to enable.
+notification_permissions: Notification Permissions
+notification_permissions_guide: Notification permissions setting guide
+notification_permissions_guide_tips: Some mobile phones cannot be redirected after clicking, or cannot receive guest calls after setting, please set according to the following \"Notification permissions setting guide\"
+notification_settings: Notification Settings
+notification_set_tips: Please allow all the permissions below to ensure that you can receive calls from guests.
+no_operation_permission_title: You are not authorized to perform this operation
+no_operation_permission_content: You have no permission,Please contact family master to grant you permission in "Family Management-Family Members".
+notification: Notification
+new_password: New Password
+new_password_tips: Please enter you new password
+name: Name
+night_mode: Night Mode
+no_save_picture_tips: The picture not save to album, confirm to back?
+no_photos: No Photo
+normal: Normal
+notification_center: Notification Center
+no: No
+new_room: New Room
+number: Number
+offline: Offline
+offline_lower: offline
+online_lower: online
+open: Open
+opening: Opening
+open_door: Open Door
+open_door_failed: Open door failed.
+open_door_success: Open door successfully.
+open_door_tips: Are you sure you want to open the door?
+overlay_permission: Allow display over other applications.
+on: On
+password: Password
+password_empty_tips: Password cannot be empty.
+payments: Payments
+permission_camera: Allow BelaHome to take pictures and record video?
+permission_contact: Allow BelaHome to access your contacts?
+permission_float_window: Display Floating Window
+permission_help: Permission Guide
+permission_help_content: The current application lacks the necessary permissions.\n\n Please select \"Settings\" - \"Permission\" - Open the required permissions.
+permission_storage: Allow BelaHome to access photos and media on your device?
+permission_view: View
+personal_info: Personal Info
+platform_wechat_no_install: Wechat was not installed
+platform_message_no_install: Message was not installed
+platform_whatsapp_no_install: WhatsApp was not installed
+platform_email_no_install: Email was not installed
+platform_kakaotalk_no_install: KaKaoTalk was not installed
+please_enter_a_room_name: Please enter a room name
+please_upload_a_clear_photo: Invalid face image! Please upload the valid face image.
+plug: Plug
+pm: PM
+popup_background: Display pop-up windows while running in the background.
+porch: Porch
+power_on: Power on
+power_off: Power off
+privacy_policy: Privacy Policy
+push_notification: Push notification
+profile_photo: Profile Photo
+password_length_error_tips: Please enter 8-64 characters.
+password_format_error_tips: Your password must be a combination of letters and numbers.
+password_no_change_tips: New password and current password cannot be the same!
+password_inconsistent_tips: Confirm password and new password do not match!
+please_enter_the_email: Please enter the email
+please_enter_the_following_information: Please enter the following information to create a new subaccount.
+photo: Photo
+photo_wall: Photo wall
+photo_displayed_on_instagram_tips: Pictures displayed on device screen.
+photo_stored_on_home_center_tips: These photos are stored on the Home center.
+pictures: Pictures
+photo_add_success: Add success
+phone: Phone
+percent: ％
+palette: Palette
+preset_mode: Preset Mode
+policy_read_tips: Please read Terms and Conditions carefully to continue.
+preset: Preset:
+pause: Pause
+phone_number: Phone Number
+personal_information: Personal information
+policy_agree_unable_tips: In order to continue using the App, please read the privacy agreement carefully.
+please_select: Please select
+please_read_the_privacy_policy_below: Please read the Privacy Policy below.
+please_read_privacy_policy_tips: Please read \"%s\" and \"%s\" thoroughly, and click the \"Agree\" button to indicate that you have agreed to the aforementioned agreement.\nWe will explain to you through.
+qr_information_error: This QR code cannot be recognized.
+question_and_comments: Questions and Comments
+quit_location_save_confirm: Do you want to save the changes?
+recommend: Recommend
+record_time_countdown: The recording will end after %ds.
+record_too_short: Message too short
+refresh_failed: Refresh failed,please try again later.
+refresh_success: Refresh success.
+relay_open: Trying to open the %s.
+relay_close: Trying to close the %s.
+relay_close_success: Relay closed Successfully.
+relay_close_failed: Failed to close relay, please try again.
+relay_open_success: Relay opened Successfully.
+relay_open_failed: Failed to open relay, please try again
+remove_device: Remove Device
+remove: Remove
+repeat_day: Repeats
+replace: Replace
+replace_device: Replace Device
+replace_device_failed: Device replace failed
+replace_device_success: Device replace successfully
+replace_device_timeout_tips: Search timeout.No devices found.Please confirm that the device is in paring mode.
+request_permission: Face sample needs camera permission.
+retry: Try Again
+room_device_empty_tips: No devices in this room
+room_management: Room Management
+room_name: Room Name
+room_name_already_exists: Room name already exists. Please try a different one.
+room_name_empty_tips: Room name cannot be empty
+room_name_all_devices: All Devices
+room_name_public_area: Public Area
+room_name_others: Others
+running_logs: Activities Logs
+reject: Reject
+room: Room
+rooms: Rooms
+reply_soon_tips: We will reply as soon as possible
+region: Region
+run_failure: Ran Failure
+run_successful: Ran Successfully
+ring: Ring
+room_name_not_changed: Room name has not changed.
+relay_type_switch: Switch
+relay_type_shade: Shade
+relay_type_floor_heat: Floor-Heat
+relay_type_siren: Siren
+relay_type_door: Door
+relay_type_light: Light
+region_and_phone: Region&Phone Number
+record_of_use: Record of use
+release_who_from_the_home: Release %s from the home
+receive_notification: Receive Notification
+region_cannot_be_empty: Region can not be empty.
+relay: Relay
+save_failed: Save Failed
+save_successful: Save Successful
+second_bedroom: Secondary Bedroom
+scene_log: Scene Logs
+security: Security
+security_log: Security Logs
+security_mode: Security Mode
+sensor: Sensor
+servicedesc: BelaHome NFC Unlock
+set_as_contacts: Set As Contacts
+set_call_type_failed: Failed to set call type.
+set_call_type_success: Call type set successfully.
+set_failed: Failed to set.
+setup_failed: Setup Failed.
+set_smartplus_as_a_contact: Set BelaHome as a contact
+set_smartplus_as_a_contact_tips: Set BelaHome as a contact, so that the door phone can will not be marked as a harassing call.
+setting: Setting
+select_location: Select location
+send_success: Sent Successfully.
+server_id_mac: Server ID/MAC
+share_failed: Failed to share.
+show_on_lock_screen: Show on Lock screen
+slide_reorder: Slide reorder
+speaker: Speaker
+splash_title: Welcome to BelaHome
+start_date: Start Date
+start_time: Start Time
+study_room: Home Office
+sure_log_out: Confirm to log out?
+save: Save
+saving_failed: Failed to save.
+saving_succeeded: Saved successfully.
+submit: Submit
+subscription: Subscription
+switch_av_call: Poor network connection, switch to audio call?
+send: Send
+send_email_success: We\'ve sent an email to\n%s\nwith further instructions.
+send_email_failed: An error occurred during password\nresetting,which may be due to the\nfollowing two conditions:\n\n1. The account does not exits.\n\n2. In Cloudless mode:Please reset\nyour account password from the\nFamily Center.
+sure_cancel_change_name: The modification is not saved.\nDo you want to exit?
+sure_do_irrevocable_action: This action can\'t be undone.\nplease confirm to confirm.
+save_to_album: Save to album
+show_disagree_policy_tips: Reject the privacy agreement and exit the APP.
+scan_the_qr_code: Please scan the QR code
+set_to_favorite: Add To Favorites
+scene_list: Scene List
+security_type_alarms: Alarms
+security_type_change: Arm/Disarm
+security_type_bypass: Bypass
+security_type_alert: Alert
+security_switch_mode: Switch %s mode to %s mode.
+select_all: Select All
+scene_manual: Manual scene
+scene_auto: Auto scene
+scene_security: Security scene
+system_id: System Id
+switch_shade_relay_function: Swap the open and close functions of the relay controllers on the flush-mounted module.
+shade_control: Shade control
+shade_change_other_type_tips: The device types of the two relays connected to the same flush-mounted module are changed to %s.
+signal_source: Signal source
+select_region: Select Region
+save_change_tips: This change has not been saved. Do you want to go back?
+space_management: Space Management
+someone_arrives_home: Someone Arrives Home
+security_mode_was_trigger: %s Security Mode Was Triggered
+skip: Skip
+space_name_is_empty: Your space name is empty.
+space_name_format_is_error: Your space name is in the wrong format.
+space_name_already_existed: The name already exists.
+space_info_not_change: The Space does not change.
+space_delete_with_devices_tips: There area %d devices in this space.After deleting the space, these devices will be moved to the space of Others
+switch_module1: Switch Module1
+switch_module2: Switch Module2
+space: Space
+speed: Speed
+sweep: Sweep
+sleep: Sleep
+switch_name: Switch%d Name
+switch_name_cannot_be_empty: Switch name cannot be empty.
+taskbar_lock: Taskbar interface lock
+taskbar_lock_tips: Please swipe up from the bottom of the screen-enter the multitasking interface-find BelaHome to lock it
+temp_key: Temp Key
+temp_keys: Temp Keys
+temperature: Temperature
+temperature_abbreviation: Temp.
+temperature_cold: Cold
+temperature_comfortable: Comfortable
+temperature_hot: Hot
+terms_policies: Terms & Policies
+time_error_tips: The end time cannot be earlier than the start time.
+time_schedule: Time Schedule
+tip_delete_hue_device: Removing this device will remove other devices controlled by Philip Hue gateway. Are you sure to you want to remove them?
+tip_delete_device_in_scene: Are you sure you want to remove this device and wipe data? Scenes related to the device will be invalid and the device will be removed from the device list, all related data will be wiped.
+tip_delete_device_not_in_scene: Are you sure you want to remove this device and wipe data? The device will be removed from the device list and all related data will be wiped.
+tip_delete_device_success: Device deleted successfully.
+trust_this_website: Your connection is not a private connection,if you want to continue,click continue to trust the website.
+trying_to_open_the_door: Trying to open the door…
+turn_on_bluetooth_first: Please turn on Bluetooth first.
+temporary_account_registration: Temporary Account Registration
+temporary_account_created_tips: Your BelaHome temporary account has been created.
+temporary_account: Account:
+temporary_password: Password:
+take_a_photo: Take a photo
+transfer_administrator_permissions: Transfer Administrator Permissions
+transfer_administrator_permissions_tips: Transfer Your Administrator Permissions?
+temperature_unit_c: ℃
+temperature_unit_f: ℉
+trigger_message_arrive_at_time: Time arrives at %s
+trigger_message_weather_change_temperature_less_than: The temperature is less than %f℃
+trigger_message_weather_change_temperature_equal: The temperature is equal to %f℃
+trigger_message_weather_change_temperature_more_than: The temperature is more than %f℃
+trigger_message_weather_change_humidity_less_than: The humidity is less than %f\%
+trigger_message_weather_change_humidity_equal: The humidity is equal to %f\%
+trigger_message_weather_change_humidity_more_than: The humidity is more than %f\%
+trigger_message_weather_change_sunny: The weather is sunny
+trigger_message_weather_change_cloud: The weather is cloud
+trigger_message_weather_change_pm25_excellent: PM2.5 indicators are excellent
+trigger_message_weather_change_pm25_good: PM2.5 indicators are good
+trigger_message_weather_change_pm25_pollution: PM2.5 indicators are pollution
+trigger_message_weather_change_air_excellent: Air quality are excellent
+trigger_message_weather_change_air_good: Air quality are good
+trigger_message_weather_change_air_pollution: Air quality are pollution
+trigger_message_device_motion: motion detection
+trigger_message_device_water_alarm: water alarm
+trigger_message_device_water_alarm_recover: water alarm recover
+trigger_message_device_door_open: door open
+trigger_message_device_door_close: door close
+trigger_message_device_gas_alarm: gas alarm
+trigger_message_device_gas_alarm_recover: gas alarm recover
+trigger_message_device_smoke_alarm: smoke alarm
+trigger_message_device_smoke_alarm_recover: smoke alarm recover
+trigger_message_device_co_alarm: CO alarm
+trigger_message_device_co_alarm_recover: CO alarm recover
+trigger_message_device_sos: SOS trigger
+trigger_message_device_socket_on: socket on
+trigger_message_device_socket_off: socket off
+trigger_message_device_shade_open: shade open
+trigger_message_device_shade_close: shade close
+trigger_message_arming_mode_switch_to_home: switch to Home Mode
+trigger_message_arming_mode_switch_to_away: switch to Away Mode
+trigger_message_arming_mode_switch_to_night: switch to Night Mode
+trigger_message_disarm: Alarm released
+trigger_message_arming_mode_custom: switch to %s Mode
+the_bound_family_relationship: The bound family relationship
+temporary_account_registration_tips: Upgrading to an official account will bring you more features, including:
+temporary_account_registration_privilege: 1.Be able to control your smart home after you lelft home.\n\n2.Be able to receive intercom call as phone call.\n\n3.More feature with Akubela Cloud.
+the_current_version_is_the_lastest: The current version is the latest: %s
+today: Today
+temperature_source: Temperature Source
+temperature_can_not_obtained: The current temperature cannot be obtained.
+unknown: Unknown
+unlock_alarm: Door Status Alarm
+unlock_alarm_deal: Door status alarm has been dealt.
+unresolved_alarm_content: You have %1$s undealt alarm.
+user_name_cannot_be_empty: Username cannot be empty.
+user_name: Username
+user_name_hint: Email / Username
+update: Update
+updating: Updating
+upgrade: Update Now
+upgrade_cancel: The upgrade is cancelled
+upload: Uploading…
+upload_to_the_cloud: Upload To The Cloud
+upload_success: Upload successfully.
+upload_failed: Upload failed.
+user_agreement: User Agreement
+unbundling_family: Unbind Family
+unbundling_family_select_tips: Please select an account as administrator first
+unbundling_family_dialog_tips: Choose %s as administrator?\nyou will unbind this family and log out of the app.
+unbundling_family_dialog_sure_tips: This action can\'t be undone.\nplease confirm to continue.
+unbundling_family_no_sub_dialog_tips: Your account will be unbind from\nyour family, please confirm to\ncontinue.
+unbundling_family_no_sub_dialog_sure_tips: This action can\'t be undone.\nplease confirm to continue.
+use_qrcode_to_login_tips: You can scan QR code to log in.
+updated_on_date: Updated on %s %d
+url: URL
+unbind_whole_family: Unbind Whole Family
+unbind_whole_family_tips: If you decide to detach from the family, please note the following information:
+unbind_whole_family_warning_one: You can\'t control the devices in this home anymore
+unbind_whole_family_warning_two: You will need to contact your installer to rebind the home
+unbind_family_tips: Please note the following information:
+unbind_family_warning_one: %s can\'t control the devices in this home anymore
+unbind_family_warning_two: %s chat data will be deleted
+unbind_the_family: Unbind the family?
+unable_operate_tips: Existence of off-cloud devices,unable to operate account settings
+unbind_successful: Unbind Successful
+unable_modify_user_info: Unable to connect to your home center
+upgrade_device_tips: Upgrade your device to a new version?
+version: Version
+video_call: Video call
+video_call_failed: Video call not connected.
+video_call_time: Video call time %s
+video_quality_diagnosis: Video Quality Diagnosis
+voice: Voice
+voice_call: Voice call
+volumn: Volume
+voice_input_tips: Release and send\nSwipe up to cancel sending
+week: Week
+week_sunday: Sunday
+week_monday: Monday
+week_tuesday: Tuesday
+week_wednesday: Wednesday
+week_thursday: Thursday
+week_friday: Friday
+week_saturday: Saturday
+week_sunday_abbreviation: Sun
+week_monday_abbreviation: Mon
+week_tuesday_abbreviation: Tue
+week_wednesday_abbreviation: Wed
+week_thursday_abbreviation: Thu
+week_friday_abbreviation: Fri
+week_saturday_abbreviation: Sat
+weekdays: Weekdays
+weekends: Weekends
+weekly_empty_tips: Please select at least one day.
+ws_reconnect_tips: Connecting, Please wait…
+within_what_family: Within %s family,
+who_share_the_family: %s invites you to join his family.
+whole_house: Whole House
+warm: Warm
+yesterday: Yesterday
+your_email_tips: Please enter the corresponding email address to continue.
+zone_device_infrared_sensor: Infrared Sensor
+zone_device_dramagnet_sensor: Dramagnet Sensor
+zone_device_urgency_sensor: Urgency Sensor
