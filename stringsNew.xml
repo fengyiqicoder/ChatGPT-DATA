@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+    <string name="connect_device_to_local_network">Connect device to local network</string>
+    <string name="add_third_party_device_prompt_1">To pair with the %s device,do as the following:\n\n1.Follow the device instructions to add it to the %s app.\n\n2.Ensure that the network used during the device setup is on the same local area network (LAN) as the panel.</string>
+    <string name="add_third_party_device_prompt_2">To pair with the %s device,do as the following:\n\nEnsure that the Wi-Fi network used during the device setup is on the same local area network (LAN) as the panel.</string>
+    <string name="play_or_stop">Play/Stop</string>
+    <string name="task_tips_device_volume">Set the volume of %s to %s</string>
+    <string name="task_tips_device_toggle">Play/Stop music on %s</string>
+    <string name="app_sonos">Sonos</string>
+    <string name="app_yeelight">Yeelight</string>
+    <string name="app_somfy">Somfy</string>
+    <string name="app_lutron">Lutron</string>
+    <string name="app_kasa_smart">Kasa Smart</string>
+    <string name="turn_on">Turn on</string>
+    <string name="turn_off">Turn off</string>
+    <string name="delete_sub_device_tips">Are you sure you want to delete this device? This sub-device will be removed and the gateway may not be able to re-add it.</string>
+    <string name="trigger_tips_device_illuminance">When %s illuminance is %s %s</string>
+    <string name="condition_tips_device_illuminance">If %s illuminance is %s %s</string>
+    <string name="scene_name_empty_tips">The scene name cannot be empty.</string>
+    <string name="scene_trigger_empty_tips">Please use at least one trigger.</string>
+    <string name="scene_task_empty_tips">Please use at least one task.</string>
+    <string name="operation_not_permission_tips">General users do not have permission to perform this operation, please contact the administrator user</string>
+    <string name="device_dimmer_light">Dimmer Light</string>
+    <string name="device_rgb_light">RGB Light</string>
+    <string name="device_light">Light</string>
+    <string name="device_shade">Shade</string>
+    <string name="device_lock">Lock</string>
+    <string name="error_msg_cloud_response_timeout">Cloud response timeout.</string>
+    <string name="error_msg_cloud_not_main_account">The cloud admin account could not be found. Please try again or create a new account.</string>
+</resources>
