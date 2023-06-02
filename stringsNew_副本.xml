@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+    <string name="connect_device_to_local_network">将设备连接到本地网络</string>
+    <string name="add_third_party_device_prompt_1">配对%s设备，请按照以下步骤操作：\n\n1.按照设备说明将其添加到%s应用程序。\n\n2.确保设备设置期间使用的网络与面板在同一局域网(LAN)上。</string>
+    <string name="add_third_party_device_prompt_2">配对%s设备，请按照以下步骤操作：\n\n确保设备设置期间使用的Wi-Fi网络与面板在同一局域网(LAN)上。</string>
+    <string name="play_or_stop">播放/停止</string>
+    <string name="task_tips_device_volume">将%s的音量设置为%s</string>
+    <string name="task_tips_device_toggle">在%s上播放/停止音乐</string>
+    <string name="app_sonos">Sonos</string>
+    <string name="app_yeelight">Yeelight</string>
+    <string name="app_somfy">Somfy</string>
+    <string name="app_lutron">Lutron</string>
+    <string name="app_kasa_smart">Kasa Smart</string>
+    <string name="turn_on">打开</string>
+    <string name="turn_off">关闭</string>
+    <string name="delete_sub_device_tips">您确定要删除此设备吗？此子设备将被移除，网关可能无法重新添加它。</string>
+    <string name="trigger_tips_device_illuminance">当%s的照度为%s %s时</string>
+    <string name="condition_tips_device_illuminance">如果%s的照度为%s %s</string>
+    <string name="scene_name_empty_tips">场景名称不能为空。</string>
+    <string name="scene_trigger_empty_tips">请至少使用一个触发条件。</string>
+    <string name="scene_task_empty_tips">请至少使用一个任务。</string>
+    <string name="operation_not_permission_tips">普通用户没有执行此操作的权限，请联系管理员用户</string>
+    <string name="device_dimmer_light">调光灯</string>
+    <string name="device_rgb_light">RGB灯</string>
+    <string name="device_light">灯</string>
+    <string name="device_shade">窗帘</string>
+    <string name="device_lock">锁</string>
+    <string name="error_msg_cloud_response_timeout">云响应超时。</string>
+    <string name="error_msg_cloud_not_main_account">找不到云管理员账户。请再试一次或创建新账户。</string>
+</resources>
